@@ -54,4 +54,3 @@ This project demonstrates a **Single Page Application (SPA)** built using **HTML
 
 **GitHub Repository:** https://github.com/madhumathavi2005-dotcom/project1.git
 **Live deployment link:**  https://madhumathavi2005-dotcom.github.io/project1/
-# project1
